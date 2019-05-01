@@ -1,0 +1,278 @@
+2019-04-10 23:00:57,345 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:00:57,345 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:00:57,345 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:00:57,345 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:00:57,345 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:00:57,346 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:01:23,376 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:01:48,401 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:03:09,572 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:06:16,517 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:07:46,330 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:07:46,330 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:07:46,330 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:07:46,331 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:07:46,331 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:07:46,331 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:08:35,415 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:08:35,416 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:08:35,416 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:08:35,416 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:08:35,416 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:08:35,416 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:08:35,844 [MainThread  ] [INFO ]  GUI
+2019-04-10 23:08:35,845 [MainThread  ] [INFO ]  Client has been initialized!
+2019-04-10 23:08:54,890 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:08:54,890 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:08:54,891 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:08:54,891 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:08:54,891 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:08:54,891 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:08:54,996 [MainThread  ] [INFO ]  GUI
+2019-04-10 23:08:54,996 [MainThread  ] [INFO ]  Client has been initialized!
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:10:33,521 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:10:33,530 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:10:38,350 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:10:38,356 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-10 23:10:38,362 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:10:38,363 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-10 23:10:38,414 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:10:40,427 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:10:40,433 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-10 23:10:40,438 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:10:40,441 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:10:42,116 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:10:42,122 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:10:46,494 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:10:46,498 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:11:08,935 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:11:08,935 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:11:08,935 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:11:08,935 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:11:08,936 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:11:08,936 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:11:08,947 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:11:08,948 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:11:08,949 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:11:08,949 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:11:09,041 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:11:09,041 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:11:09,043 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:11:09,043 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:11:09,046 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:11:09,046 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:11:09,047 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:11:09,047 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:11:09,052 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:11:09,052 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:11:09,053 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:11:09,053 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:11:24,335 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:11:24,342 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:11:24,342 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:11:24,344 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:11:24,344 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:23,504 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:12:23,505 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:12:23,505 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:12:23,505 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:12:23,505 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:12:23,505 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:12:23,512 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:12:24,411 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:12:24,418 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-10 23:12:24,424 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:24,425 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-10 23:12:24,472 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:12:26,239 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:12:26,245 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-10 23:12:26,249 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:26,251 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:12:27,719 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:12:27,724 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-10 23:12:38,563 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:12:38,572 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-10 23:12:38,590 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:12:38,591 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:12:38,592 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:12:38,592 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:38,597 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:12:38,597 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:12:38,598 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:12:38,598 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:38,603 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:12:38,603 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:12:38,604 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:12:38,604 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:12:38,609 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:12:38,609 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:12:38,611 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:12:38,611 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:17:20,071 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:17:20,071 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:17:20,072 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:17:20,072 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:17:20,072 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:17:20,072 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:17:20,084 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:17:20,084 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:17:20,085 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:17:20,085 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:17:20,153 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:17:20,153 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:17:20,154 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:17:20,155 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:17:20,159 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:17:20,159 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:17:20,160 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:17:20,160 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:17:20,163 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-10 23:17:20,163 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-10 23:17:20,164 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-10 23:17:20,165 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-10 23:22:52,125 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:22:52,126 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:22:52,126 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:22:52,126 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:22:52,126 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:22:52,126 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:22:52,137 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test1
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 1b4f0e9851971998e732078544c96b36c3d01cedf7caa332359d6f1d83567014
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test2
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 60303ae22b998861bce3b28f33eec1be758a213c86c93c076dbe9f558c11c752
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: test3
+2019-04-10 23:23:06,430 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: fd61a03af4f77d870fc21e05e7e80678095c92d808cfb3b5c279ee04c74aca13
+2019-04-10 23:23:06,437 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-16 15:04:58,079 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:05:00,342 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:05:00,347 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 15:05:00,353 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 15:05:00,353 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-16 15:05:00,387 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:05:01,775 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:05:01,780 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 15:05:01,785 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 15:05:01,786 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:05:03,512 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:05:03,518 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:05:06,127 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:05:06,132 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:35:28,778 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 15:35:28,778 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 15:36:48,186 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 15:36:48,187 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 15:37:06,225 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 15:37:06,225 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 15:40:45,808 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:40:47,895 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:40:47,900 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 15:40:47,906 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 15:40:47,906 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-16 15:40:47,939 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:40:49,095 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:40:49,101 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 15:40:49,106 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 15:40:49,107 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:40:51,888 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:40:51,897 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 15:40:54,382 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:40:54,387 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 15:40:54,410 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 15:40:54,410 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 16:07:10,120 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 16:07:10,120 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 16:07:54,040 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:07:55,969 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:07:55,975 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 16:07:55,980 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 16:07:55,981 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-16 16:07:56,020 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:07:58,155 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:07:58,160 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 16:07:58,166 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 16:07:58,167 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:08:00,387 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:08:00,393 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:08:05,419 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:08:05,423 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:08:05,441 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 16:08:05,441 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-04-16 16:15:16,548 [MainThread  ] [INFO ]  ONION ROUTING START
+2019-04-16 16:15:16,549 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-16 16:15:16,549 [MainThread  ] [INFO ]  Recipitent read in
+2019-04-16 16:15:16,549 [MainThread  ] [INFO ]  Exchanging Keys
+2019-04-16 16:15:16,549 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 16:15:48,921 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-16 16:16:07,857 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-16 16:17:30,072 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-16 16:17:58,813 [MainThread  ] [INFO ]  Random route used random seed: 2
+2019-04-16 16:18:06,250 [MainThread  ] [INFO ]  Random route used random seed: 1
+2019-04-16 16:18:35,856 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:18:39,645 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:18:39,651 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 16:18:39,657 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 16:18:39,659 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-04-16 16:18:39,704 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:18:40,697 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:18:40,702 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-04-16 16:18:40,710 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-04-16 16:18:40,712 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:18:41,957 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:18:41,963 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-04-16 16:18:42,568 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:18:42,574 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-04-16 16:18:42,594 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-04-16 16:18:42,594 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-05-01 03:13:36,683 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-05-01 03:13:36,683 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-05-01 03:13:49,094 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-05-01 03:13:49,094 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-05-01 03:14:09,527 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-05-01 03:14:09,527 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
+2019-05-01 03:14:28,199 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-05-01 03:14:31,523 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-05-01 03:14:31,529 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-05-01 03:14:31,535 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-05-01 03:14:31,537 [MainThread  ] [INFO ]  Decrypting a message with asymmetric key
+2019-05-01 03:14:31,590 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-05-01 03:14:39,543 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-05-01 03:14:39,549 [MainThread  ] [INFO ]  Retreiving our asymmetric public key
+2019-05-01 03:14:39,553 [MainThread  ] [INFO ]  Encrypting a message with asymmetric key
+2019-05-01 03:14:39,555 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-05-01 03:14:42,580 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-05-01 03:14:42,586 [MainThread  ] [INFO ]  Generating our asymmetric public and private key
+2019-05-01 03:14:43,903 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-05-01 03:14:43,909 [MainThread  ] [INFO ]  Saving our public/private key to file
+2019-05-01 03:14:43,927 [MainThread  ] [INFO ]  This is what we are generating NODE ID from: Alice
+2019-05-01 03:14:43,928 [MainThread  ] [INFO ]  This is what we have generated as our NODE ID: 3bc51062973c458d5a6f2d8d64a023246354ad7e064b1e4e009ec8a0699a3043
