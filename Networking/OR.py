@@ -120,11 +120,11 @@ class OR():
         logging.info("Key Exchange for Reciever")
 
         logging.info(keyExchangeHop3)
-        userInfo.info("First OR" + str(route.hop1["port"]))
+        userInfo.info("First OR" + str(route.hop1["ip"]))
 
         # AES symmetric keys are sent to the circuit in anticpation for a message being sent
         reactor.connectTCP(route.hop1["ip"], int(route.hop1["port"]), MessageFactory(keyExchangePackage1))
-        userInfo.info("Second OR" + str(route.hop2["port"]))
+        userInfo.info("Second OR" + str(route.hop2["ip"]))
         reactor.connectTCP(route.hop2["ip"], int(route.hop2["port"]), MessageFactory(keyExchangePackage2))
         userInfo.info("Receiver Exchange" + str(self.recieverPort) + str(self.recieverIP))
         reactor.connectTCP(self.recieverIP, int(self.recieverPort), MessageFactory(keyExchangePackage3))
